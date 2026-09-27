@@ -1,7 +1,7 @@
 # Rodin Development
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rodin-Development/.github/main/profile/assets/rodin.png" width="140" />
+  <img src="https://raw.githubusercontent.com/Rodin-Development/.github/master/profile/assets/rodin.png" width="140" />
 </p>
 
 <h3 align="center">Android Development for Xiaomi POCO X7 Pro</h3>
