@@ -57,4 +57,3 @@ custom Android software for the device.
 Device       : POCO X7 Pro
 Codename     : rodin
 SoC          : MediaTek Dimensity 8400-Ultra
-
