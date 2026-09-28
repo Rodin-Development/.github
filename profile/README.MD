@@ -52,8 +52,7 @@
 ```text
 Device       : POCO X7 Pro
 Codename     : rodin
-SoC          : MediaTek Dimensity 8400-Ultra
-Architecture : ARM64 
+SoC          : MediaTek Dimensity 8400-Ultra 
 ```
 ## Credits
 
