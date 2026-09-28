@@ -20,7 +20,7 @@
 
 ## About
 
-**Custom ROM resources and device trees for the POCO X7 Pro (rodin)**.
+**Custom ROM resources and device trees for the POCO X7 Pro (`rodin`).**
 
 ### What we maintain
 
@@ -53,3 +53,28 @@
 Device       : POCO X7 Pro
 Codename     : rodin
 SoC          : MediaTek Dimensity 8400-Ultra
+Architecture : ARM64 
+```
+## Credits
+
+A huge part of `rodin` development is built upon the work of developers
+who came before us.
+
+### Upstream & Community Projects
+
+<p align="center">
+
+<a href="https://github.com/xiaomi-rodin-mtk6899">
+  <img src="https://img.shields.io/badge/Xiaomi--Rodin--MTK6899-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/Digimend-X-Rodin">
+  <img src="https://img.shields.io/badge/Digimend--X--Rodin-181717?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+These projects and their contributors have provided valuable device
+development resources for the POCO X7 Pro (`rodin`).
+
+**Good Luck**
