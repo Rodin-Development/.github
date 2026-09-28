@@ -20,11 +20,7 @@
 
 ## About
 
-**Rodin Development** is a community-driven organization focused on
-Android development for the **POCO X7 Pro (`rodin`)**.
-
-We maintain the device-specific sources required to build and develop
-custom Android software for the device.
+**Custom ROM resources and device trees for the POCO X7 Pro (rodin)**.
 
 ### What we maintain
 
