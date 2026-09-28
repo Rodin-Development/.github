@@ -72,6 +72,10 @@ who came before us.
   <img src="https://img.shields.io/badge/Digimend--X--Rodin-181717?style=for-the-badge&logo=github" />
 </a>
 
+<a href="https://github.com/xiaomi-goya-devs">
+  <img src="https://img.shields.io/badge/Xiaomi--Goya--Devs-181717?style=for-the-badge&logo=github" />
+</a>
+
 </p>
 
 These projects and their contributors have provided valuable device
